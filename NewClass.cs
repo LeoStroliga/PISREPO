@@ -6,6 +6,6 @@ namespace ConsoleApp6
 {
     class Class1
     {
-        //promjena
+        // neka nova promjena
     }
 }
